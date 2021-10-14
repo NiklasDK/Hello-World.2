@@ -1,0 +1,13 @@
+body {
+  background-color: #2F4F4F;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family:system-ui;
+  font-size: 20px;
+}
